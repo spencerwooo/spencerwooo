@@ -1,4 +1,11 @@
-### Hi there 👋
+### Yoo, I'm Spencer Woo 👋
+
+- 🍻 _Computer Science_ Bachelor Graduate at 🇨🇳 BIT. Prospective _Computing Science_ student at 🇬🇧 UofG, 1/2021 entry.
+- 🔭 I'm currently a research assistant at _Data & AI security Lab_, BIT.
+- 👯 Building [Dev on Windows with WSL](https://dowww.spencerwoo.com/), [Substats](https://api.spencerwoo.com/substats/), [BIThesis](https://github.com/BITNP/BIThesis) and more.
+- 🥑 [Gridsome](https://github.com/gridsome) collaborator, [BITNP](https://github.com/BITNP) member.
+- 📫 Email me at: [spencer.woo@outlook.com](mailto:spencer.woo@outlook.com)
+
 
 <!--
 **spencerwooo/spencerwooo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
