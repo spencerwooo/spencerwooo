@@ -1,9 +1,10 @@
 ### Yoo, I'm Spencer Woo 👋
 
-- 🍻 _Computer Science_ Bachelor Graduate at 🇨🇳 BIT. Prospective _Computing Science_ student at 🇬🇧 UofG, 1/2021 entry.
+- 🍻 _Computer Science_ Bachelor Graduate at 🇨🇳 [BIT](http://www.bit.edu.cn/). Prospective student at 🇬🇧 [UofG](https://www.gla.ac.uk/), 1/2021 entry, _MSc in Computing Science_.
 - 🔭 I'm currently a research assistant at _Data & AI security Lab_, BIT.
 - 👯 Building [Dev on Windows with WSL](https://dowww.spencerwoo.com/), [Substats](https://api.spencerwoo.com/substats/), [BIThesis](https://github.com/BITNP/BIThesis) and more.
 - 🥑 [Gridsome](https://github.com/gridsome) collaborator, [BITNP](https://github.com/BITNP) member.
+- ⚡ JavaScript / Python / C++. Vue / Express / PyTorch. Adversarial attacks / Image classification.
 - 📫 Email me at: [spencer.woo@outlook.com](mailto:spencer.woo@outlook.com)
 
 [![GitHub](https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub+Followers&labelColor=282c34&color=181717&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dspencerwooo&longCache=true)](https://github.com/spencerwooo)
