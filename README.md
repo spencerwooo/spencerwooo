@@ -10,7 +10,7 @@
 - 🍰 🇨🇳 [BIT](http://www.bit.edu.cn/) Alumni (_BSc in Computer Science_).
 - 👯 Building [Dev on Windows with WSL](https://dowww.spencerwoo.com/), [Substats](https://api.spencerwoo.com/substats/), [BIThesis](https://github.com/BITNP/BIThesis) and more.
 - 🥑 [Gridsome](https://github.com/gridsome) collaborator, [BITNP](https://github.com/BITNP) member.
-- ⚡ JavaScript / Python / C++. Vue / Express / PyTorch. Adversarial attacks / Image classification.
+- ⚡ JavaScript / Python / C++. Vue / Express / PyTorch. Adversarial examples / AI security.
 - 🔑 GPG key hosted here at [GitHub](https://github.com/spencerwooo.gpg) and also [Keybase](https://keybase.io/spencerwoo/pgp_keys.asc), see [Keybase proof](https://gist.github.com/spencerwooo/e7b6def7db97b6fa269f5955e0a53d26).
 - 📫 Email me at: [spencer.wushangbo@gmail.com](mailto:spencer.wushangbo@gmail.com)
 - 💰 Support my work on [爱发电](https://afdian.net/@spencerwoo)!
