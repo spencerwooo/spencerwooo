@@ -12,6 +12,7 @@
 - ⚡ JavaScript / Python / C++. Vue / Express / PyTorch. Adversarial examples / AI security.
 - 🔑 GPG key hosted here at [GitHub](https://github.com/spencerwooo.gpg) and also [Keybase](https://keybase.io/spencerwoo/pgp_keys.asc), see [Keybase proof](https://gist.github.com/spencerwooo/e7b6def7db97b6fa269f5955e0a53d26).
 - 📫 Email me at: [spencer.wushangbo@gmail.com](mailto:spencer.wushangbo@gmail.com)
+- <img src="https://user-images.githubusercontent.com/32114380/119022705-ccf97480-b998-11eb-90e5-82191fbc6943.png" height="20" width="auto" alt="Paimon" /> Genshin Impact 原神（天空岛）`UID 168305666`
 - 💰 Support my work on [爱发电](https://afdian.net/@spencerwoo)!
 <!-- - 🔭 Currently a research assistant at _Data & AI security Lab_, BIT. -->
 <!-- 🥑 [Gridsome](https://github.com/gridsome) collaborator, [BITNP](https://github.com/BITNP) member. -->
