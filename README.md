@@ -6,13 +6,13 @@
 [![Weibo](https://img.shields.io/badge/dynamic/json?logo=sina-weibo&label=Weibo&labelColor=2C2E43&color=2C2E43&query=%24.count&url=https%3A%2F%2Fapi.swo.moe%2Fstats%2Fweibo%2F6265807914)](https://weibo.com/u/6265807914)
 [![Genshin Impact](https://img.shields.io/badge/Genshin%20Impact-168305666-2C2E43?labelColor=2C2E43)](https://weibo.com/u/6265807914)
 
-- 🇬🇧 [UofG](https://www.gla.ac.uk/) - MSc in Computing Science, 1/2021 - 1/2022. On route to graduate **with 👨‍🎓 Distinction**.
+- 🇬🇧 [UofG](https://www.gla.ac.uk/) - MSc in Computing Science, 1/2021 - 1/2022. Graduated **with 👨‍🎓 Distinction**.
 - 🇨🇳 [BIT](http://www.bit.edu.cn/) - BSc in Computer Science, 8/2016 - 7/2020. Research assistant at _Data & AI security Lab_, 6/2020 - 1/2021.
 - 👯 Building [onedrive-vercel-index](https://drive.swo.moe), [substats](https://api.swo.moe/stats/), [BIThesis](https://github.com/BITNP/BIThesis) and more.
 - ⚡ TypeScript / JavaScript / Python. Next.js / Serverless. React / Vue / Express / PyTorch. Adversarial examples / AI security.
 - 🔑 GPG key hosted here at [GitHub](https://github.com/spencerwooo.gpg) and also [Keybase](https://keybase.io/spencerwoo/pgp_keys.asc), see [Keybase proof](https://gist.github.com/spencerwooo/e7b6def7db97b6fa269f5955e0a53d26).
 - 📫 Email me at: [spencer.wushangbo@gmail.com](mailto:spencer.wushangbo@gmail.com)
-- 🥤 Genshin Impact 原神（天空岛）UID 168305666 - AR 57，快来找我带本打 boss 哦 (/≧▽≦)/
+- 🥤 Genshin Impact 原神（天空岛）UID 168305666 - AR 58，快来找我带本打 boss 哦 (/≧▽≦)/
 - 💰Support my work on [爱发电](https://afdian.net/@spencerwoo)！
 <!-- - 🔭 Currently a research assistant at _Data & AI security Lab_, BIT. -->
 <!-- 🥑 [Gridsome](https://github.com/gridsome) collaborator, [BITNP](https://github.com/BITNP) member. -->
