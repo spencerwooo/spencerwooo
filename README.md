@@ -9,7 +9,6 @@
 - 🎓 **PhD Student** at [Beijing Institute of Technology](https://cst.bit.edu.cn), 8/2022 - Present. Cryptography, AI security.
 - 🇬🇧 [UofG](https://www.gla.ac.uk/) - MSc in Computing Science, 1/2021 - 1/2022. Graduated **with 👨‍🎓 Distinction**.
 - 🇨🇳 [BIT](http://www.bit.edu.cn/) - BSc in Computer Science, 8/2016 - 7/2020. Research assistant at _Data & AI security Lab_, 6/2020 - 1/2021.
-- 👯 Building [onedrive-vercel-index](https://drive.swo.moe), [substats](https://api.swo.moe/stats/), [BIThesis](https://github.com/BITNP/BIThesis) and more.
 - ⚡ TypeScript / Python / Rust. Next.js / Serverless. PyTorch. Adversarial examples / Steganography / AI security.
 - 🔑 GPG key hosted here at [GitHub](https://github.com/spencerwooo.gpg) and also [Keybase](https://keybase.io/spencerwoo/pgp_keys.asc), see [Keybase proof](https://gist.github.com/spencerwooo/e7b6def7db97b6fa269f5955e0a53d26).
 - 📫 Email me at: [spencer.wushangbo@gmail.com](mailto:spencer.wushangbo@gmail.com)
