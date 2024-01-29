@@ -6,7 +6,7 @@
 [![Weibo](https://img.shields.io/badge/dynamic/json?logo=sina-weibo&label=Weibo&labelColor=2C2E43&color=2C2E43&query=%24.count&url=https%3A%2F%2Fapi.swo.moe%2Fstats%2Fweibo%2F6265807914)](https://weibo.com/u/6265807914)
 [![Genshin Impact](https://img.shields.io/badge/Genshin%20Impact-168305666-2C2E43?labelColor=2C2E43)](https://weibo.com/u/6265807914)
 
-- 🎓 **PhD Student** at [Beijing Institute of Technology](https://cst.bit.edu.cn), 8/2022 - Present. Cryptography, AI security.
+- 🎓 **PhD Candidate** at [Beijing Institute of Technology](https://cst.bit.edu.cn), 8/2022 - Present. Cryptography, AI security.
 - 🇬🇧 [UofG](https://www.gla.ac.uk/) - MSc in Computing Science, 1/2021 - 1/2022. Graduated **with 👨‍🎓 Distinction**.
 - 🇨🇳 [BIT](http://www.bit.edu.cn/) - BSc in Computer Science, 8/2016 - 7/2020. Research assistant at _Data & AI security Lab_, 6/2020 - 1/2021.
 - ⚡ TypeScript / Python / Rust. Next.js / Serverless. PyTorch. Adversarial examples / Steganography / AI security.
