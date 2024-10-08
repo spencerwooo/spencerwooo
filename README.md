@@ -11,7 +11,7 @@
 - 🇨🇳 [BIT](http://www.bit.edu.cn/) - BSc in Computer Science, 8/2016 - 7/2020. Research assistant at _Data & AI security Lab_, 6/2020 - 1/2021.
 - ⚡ TypeScript / Python / Rust. Next.js / Serverless. PyTorch. Adversarial examples / AI security.
 - 🔑 GPG key hosted here at [GitHub](https://github.com/spencerwooo.gpg) and also [Keybase](https://keybase.io/spencerwoo/pgp_keys.asc), see [Keybase proof](https://gist.github.com/spencerwooo/e7b6def7db97b6fa269f5955e0a53d26).
-- 📫 Email me at: [spencer.wushangbo@gmail.com](mailto:spencer.wushangbo@gmail.com)
+- 📫 Email me at: [spencer.wushangbo#gmail.com](mailto:spencer.wushangbo@gmail.com)
 - 🥤 Genshin Impact 原神（天空岛）UID 168305666 - AR 60 (/≧▽≦)/
 - 💰Support my work on [爱发电](https://afdian.com/@spencerwoo)！
 
